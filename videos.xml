@@ -1,0 +1,730 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:app='http://www.w3.org/2007/app' xmlns:media='http://search.yahoo.com/mrss/' xmlns:openSearch='http://a9.com/-/spec/opensearch/1.1/' xmlns:gd='http://schemas.google.com/g/2005' xmlns:yt='http://gdata.youtube.com/schemas/2007' gd:etag='W/&quot;CkYNSH07cSp7I2A9WhVSGEg.&quot;'>
+	<id>tag:youtube.com,2008:videos</id>
+	<updated>2012-03-15T22:23:19.309Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+	<title>YouTube Videos matching query: "Miss Maine"</title>
+	<logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+	<link rel='alternate' type='text/html' href='https://www.youtube.com'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos?v=2'/>
+	<link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/batch?v=2'/>
+	<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos?q=%22Miss+Maine%22&amp;start-index=1&amp;max-results=12&amp;duration=short&amp;safeSearch=strict&amp;orderby=relevance_lang_en&amp;v=2'/>
+	<link rel='service' type='application/atomsvc+xml' href='https://gdata.youtube.com/feeds/api/videos?alt=atom-service&amp;v=2'/>
+	<link rel='next' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos?q=%22Miss+Maine%22&amp;start-index=13&amp;max-results=12&amp;duration=short&amp;safeSearch=strict&amp;orderby=relevance_lang_en&amp;v=2'/>
+	<author>
+		<name>YouTube</name>
+		<uri>http://www.youtube.com/</uri>
+	</author>
+	<generator version='2.1' uri='http://gdata.youtube.com'>YouTube data API</generator>
+	<openSearch:totalResults>117</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>12</openSearch:itemsPerPage>
+	<entry gd:etag='W/&quot;DU8AQ347eCp7I2A9WhRWEEQ.&quot;'>
+		<id>tag:youtube.com,2008:video:STm4GUqwLVo</id>
+		<published>2011-06-10T21:02:22.000Z</published>
+		<updated>2011-12-28T18:44:02.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Maine'/>
+		<title>Miss Maine USA 2011</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/STm4GUqwLVo?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=STm4GUqwLVo&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/STm4GUqwLVo/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/STm4GUqwLVo/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/STm4GUqwLVo/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/STm4GUqwLVo/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=STm4GUqwLVo'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/STm4GUqwLVo?v=2'/>
+		<author>
+			<name>OfficialMissUSA</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/OfficialMissUSA</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/STm4GUqwLVo/comments?v=2' countHint='14'/>
+		</gd:comments>
+		<yt:hd/>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='https://www.youtube.com/v/STm4GUqwLVo?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='87' yt:format='5'/>
+			<media:content url='rtsp://v6.cache8.c.youtube.com/CkULENy73wIaPAlaLbBKGbg5SRMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='87' yt:format='1'/>
+			<media:content url='rtsp://v7.cache7.c.youtube.com/CkULENy73wIaPAlaLbBKGbg5SRMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='87' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='OfficialMissUSA' yt:type='partner'>officialmissusa</media:credit>
+			<media:description type='plain'>Web Interview</media:description>
+			<media:keywords>Maine</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=STm4GUqwLVo&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/STm4GUqwLVo/default.jpg' height='90' width='120' time='00:00:43.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/STm4GUqwLVo/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/STm4GUqwLVo/1.jpg' height='90' width='120' time='00:00:21.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/STm4GUqwLVo/2.jpg' height='90' width='120' time='00:00:43.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/STm4GUqwLVo/3.jpg' height='90' width='120' time='00:01:05.250' yt:name='end'/>
+			<media:title type='plain'>Miss Maine USA 2011</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='87'/>
+			<yt:uploaded>2011-06-10T21:02:22.000Z</yt:uploaded>
+			<yt:videoid>STm4GUqwLVo</yt:videoid>
+		</media:group>
+		<gd:rating average='3.9473684' max='5' min='1' numRaters='19' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='2' viewCount='7755'/>
+		<yt:rating numDislikes='5' numLikes='14'/>
+	</entry>
+	<entry gd:etag='W/&quot;DUABRX47eCp7I2A9WhRVFUQ.&quot;'>
+		<id>tag:youtube.com,2008:video:K2eNnjgeJlY</id>
+		<published>2011-12-10T22:41:46.000Z</published>
+		<updated>2012-01-15T03:22:34.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Nonprofit' label='Nonprofits &amp; Activism'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Miss Maine'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Miss America'/>
+		<title>Vote for Miss Maine 2011 Julia Furtado</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/K2eNnjgeJlY?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=K2eNnjgeJlY&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/K2eNnjgeJlY/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/K2eNnjgeJlY/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/K2eNnjgeJlY/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=K2eNnjgeJlY'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/K2eNnjgeJlY?v=2'/>
+		<author>
+			<name>MissAmericaOrg</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/MissAmericaOrg</uri>
+		</author>
+		<yt:accessControl action='comment' permission='denied'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='denied'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<yt:hd/>
+		<media:group>
+			<media:category label='Nonprofits &amp; Activism' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Nonprofit</media:category>
+			<media:content url='https://www.youtube.com/v/K2eNnjgeJlY?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='103' yt:format='5'/>
+			<media:content url='rtsp://v3.cache7.c.youtube.com/CkULENy73wIaPAlWJh44no1nKxMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='103' yt:format='1'/>
+			<media:content url='rtsp://v5.cache3.c.youtube.com/CkULENy73wIaPAlWJh44no1nKxMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='103' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MissAmericaOrg'>missamericaorg</media:credit>
+			<media:description type='plain'>TheMiss America Organization is proud to announce your opportunity to vote for a finalist at the 2012 Miss America Pageant, broadcast live from Planet Hollywood Resort &amp; Casino in Las Vegas on Saturday, January 14, 2012 on ABC. We have posted 53 exciting videos made by each of our 2012 contestants, showing off their style and personality and explaining why they should be chosen as the next Miss America! Cast your vote via one (1) of the following two (2) methods: 1) Visit www.missamerica.org OR 2) Visit the "Video Contest" tab at www.facebook.com Follow the directions provided to select which contestant you want to vote for. There is a limit of one (1) vote per person and internet accessible device per contestant throughout the Voting Period, regardless of method of voting. Voting closes at 11:59 pm PST on January 12, 2012. Visit www.missamerica.org/videocontest to read Voting Terms and Conditions. Happy Voting!</media:description>
+			<media:keywords>Miss Maine, Miss America</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=K2eNnjgeJlY&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/K2eNnjgeJlY/default.jpg' height='90' width='120' time='00:00:51.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/K2eNnjgeJlY/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/K2eNnjgeJlY/1.jpg' height='90' width='120' time='00:00:25.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/K2eNnjgeJlY/2.jpg' height='90' width='120' time='00:00:51.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/K2eNnjgeJlY/3.jpg' height='90' width='120' time='00:01:17.250' yt:name='end'/>
+			<media:title type='plain'>Vote for Miss Maine 2011 Julia Furtado</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='103'/>
+			<yt:uploaded>2011-12-10T22:41:46.000Z</yt:uploaded>
+			<yt:videoid>K2eNnjgeJlY</yt:videoid>
+		</media:group>
+		<yt:statistics favoriteCount='0' viewCount='9035'/>
+	</entry>
+	<entry gd:etag='W/&quot;DUAEQ347eCp7I2A9WhVSFkg.&quot;'>
+		<id>tag:youtube.com,2008:video:8cO1EicRi7g</id>
+		<published>2010-05-22T22:24:05.000Z</published>
+		<updated>2012-03-13T16:55:02.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Miss Maine USA'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Katie Whittier'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miss usa'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='rima fakih'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miss universe'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miss teen usa'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stormi henley'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='stefania fernandez'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='donald trump'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='paula shugart'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kristen dalton'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mrkd.tv'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='red carpet'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='after party'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kyle sherman live'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='kyle sherman'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='johnny weir'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='judges'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='mariana vicenta'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miss michigan usa'/>
+		<title>Miss Maine USA - Katie Whittier</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/8cO1EicRi7g?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=8cO1EicRi7g&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/8cO1EicRi7g/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/8cO1EicRi7g/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/8cO1EicRi7g/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/8cO1EicRi7g/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=8cO1EicRi7g'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/8cO1EicRi7g?v=2'/>
+		<author>
+			<name>mrkdentertainment</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/mrkdentertainment</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/8cO1EicRi7g/comments?v=2' countHint='6'/>
+		</gd:comments>
+		<yt:hd/>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='https://www.youtube.com/v/8cO1EicRi7g?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='73' yt:format='5'/>
+			<media:content url='rtsp://v5.cache6.c.youtube.com/CkULENy73wIaPAm4ixEnErXD8RMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='73' yt:format='1'/>
+			<media:content url='rtsp://v7.cache2.c.youtube.com/CkULENy73wIaPAm4ixEnErXD8RMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='73' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='mrkdentertainment'>mrkdentertainment</media:credit>
+			<media:description type='plain'/>
+			<media:keywords>Miss Maine USA, Katie Whittier, miss usa, rima fakih, miss universe, miss teen usa, stormi henley, stefania fernandez, donald trump, paula shugart, kristen dalton, mrkd.tv, red carpet, after party, kyle sherman live, kyle sherman, johnny weir, judges, mariana vicenta, miss michigan usa</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=8cO1EicRi7g&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8cO1EicRi7g/default.jpg' height='90' width='120' time='00:00:36.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8cO1EicRi7g/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8cO1EicRi7g/1.jpg' height='90' width='120' time='00:00:18.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8cO1EicRi7g/2.jpg' height='90' width='120' time='00:00:36.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/8cO1EicRi7g/3.jpg' height='90' width='120' time='00:00:54.750' yt:name='end'/>
+			<media:title type='plain'>Miss Maine USA - Katie Whittier</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='73'/>
+			<yt:uploaded>2010-05-22T22:24:05.000Z</yt:uploaded>
+			<yt:videoid>8cO1EicRi7g</yt:videoid>
+		</media:group>
+		<gd:rating average='4.6' max='5' min='1' numRaters='20' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='95' viewCount='25887'/>
+		<yt:rating numDislikes='2' numLikes='18'/>
+	</entry>
+	<entry gd:etag='W/&quot;CUcGRn47eCp7I2A9WhVSEUg.&quot;'>
+		<id>tag:youtube.com,2008:video:l_UIqmoNE1Y</id>
+		<published>2011-10-14T13:30:56.000Z</published>
+		<updated>2012-03-07T20:43:47.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Howto' label='Howto &amp; Style'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='promgirl.com'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='promgirl'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='promgirlcom'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pageant'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miss maine teen usa'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='alexis mcilwain'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='interview'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='dresses'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='prom dresses'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='homecoming dresses'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='pageant dresses'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='inside scoop'/>
+		<title>PromGirl.com Interview with Alexis McIlwain, Miss Maine Teen USA 2011</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/l_UIqmoNE1Y?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=l_UIqmoNE1Y&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/l_UIqmoNE1Y/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/l_UIqmoNE1Y/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/l_UIqmoNE1Y/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/l_UIqmoNE1Y/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=l_UIqmoNE1Y'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/l_UIqmoNE1Y?v=2'/>
+		<author>
+			<name>promgirlcom</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/promgirlcom</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/l_UIqmoNE1Y/comments?v=2' countHint='1'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Howto &amp; Style' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Howto</media:category>
+			<media:content url='https://www.youtube.com/v/l_UIqmoNE1Y?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='97' yt:format='5'/>
+			<media:content url='rtsp://v1.cache1.c.youtube.com/CkULENy73wIaPAlWEw1qqgj1lxMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='97' yt:format='1'/>
+			<media:content url='rtsp://v8.cache2.c.youtube.com/CkULENy73wIaPAlWEw1qqgj1lxMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='97' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='promgirlcom'>promgirlcom</media:credit>
+			<media:description type='plain'>PromGirl.com got the inside scoop on pageant life with an interview with Alexis McIlwain, Miss Maine Teen USA 2011. Featured dress: HS-27644 www.promgirl.com TRANSCRIPT: ALEXIS I'm Alexis McIlwain, Miss Maine Teen USA 2011. I just started pageants and this was my first one! The experience of entering Miss Maine Teen USA 2011 was amazing. I met a lot of great people and a lot of new friends. And I've gotten a lot of great opportunities out of it, such as: modeling jobs, getting involved with different charities and helping out with that, and just being a part of the pageant family! The funnest part about pageants would be probably the people that you get to meet, and the opportunities that are presented by meeting so many different people. And you get a lot of friends. And you shop! And I would say the hardest thing about being involved in a pageant would definitely be schoolwork, and keeping up with your classes, and homework. Because you miss a lot of days for events and such. The best advice that I could give girls my age looking to get into pageants would be: choose a dress that makes you feel confident. Don't choose it for someone else, choose it for YOU! Because you're the one who's on stage, who's wearing it, and who's going to be crowned in that dress. And believe in yourself! You know, you are beautiful and you own the stage. So have a lot of confidence. The kind of dress I look for when I'm entering a pageant would be something with a bold print or something that &lt;b&gt;...&lt;/b&gt;</media:description>
+			<media:keywords>promgirl.com, promgirl, promgirlcom, pageant, miss maine teen usa, alexis mcilwain, interview, dresses, prom dresses, homecoming dresses, pageant dresses, inside scoop</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=l_UIqmoNE1Y&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_UIqmoNE1Y/default.jpg' height='90' width='120' time='00:00:48.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_UIqmoNE1Y/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_UIqmoNE1Y/1.jpg' height='90' width='120' time='00:00:24.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_UIqmoNE1Y/2.jpg' height='90' width='120' time='00:00:48.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/l_UIqmoNE1Y/3.jpg' height='90' width='120' time='00:01:12.750' yt:name='end'/>
+			<media:title type='plain'>PromGirl.com Interview with Alexis McIlwain, Miss Maine Teen USA 2011</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='97'/>
+			<yt:uploaded>2011-10-14T13:30:56.000Z</yt:uploaded>
+			<yt:videoid>l_UIqmoNE1Y</yt:videoid>
+		</media:group>
+		<gd:rating average='4.0' max='5' min='1' numRaters='4' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='589'/>
+		<yt:rating numDislikes='1' numLikes='3'/>
+	</entry>
+	<entry gd:etag='W/&quot;C0YDSX47eCp7I2A9WhRVF08.&quot;'>
+		<id>tag:youtube.com,2008:video:KdL_CADvflc</id>
+		<published>2011-11-22T16:39:28.000Z</published>
+		<updated>2012-01-16T13:39:38.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Miss Maine USA'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miss usa'/>
+		<title>Miss Maine USA Winner-YouTube sharing.mov</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/KdL_CADvflc?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=KdL_CADvflc&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/KdL_CADvflc/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/KdL_CADvflc/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/KdL_CADvflc/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/KdL_CADvflc/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=KdL_CADvflc'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/KdL_CADvflc?v=2'/>
+		<author>
+			<name>mainecrown</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/mainecrown</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/KdL_CADvflc/comments?v=2' countHint='0'/>
+		</gd:comments>
+		<yt:hd/>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='https://www.youtube.com/v/KdL_CADvflc?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='55' yt:format='5'/>
+			<media:content url='rtsp://v2.cache7.c.youtube.com/CkULENy73wIaPAlXfu8ACP_SKRMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='55' yt:format='1'/>
+			<media:content url='rtsp://v8.cache1.c.youtube.com/CkULENy73wIaPAlXfu8ACP_SKRMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='55' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='mainecrown'>mainecrown</media:credit>
+			<media:description type='plain'>The crowning moment of the new Miss Maine USA 2012, Rani Williamson Video by www.medianorthest.com Location - Westbrook Performing Arts Center</media:description>
+			<media:keywords>Miss Maine USA, miss usa</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=KdL_CADvflc&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KdL_CADvflc/default.jpg' height='90' width='120' time='00:00:27.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KdL_CADvflc/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KdL_CADvflc/1.jpg' height='90' width='120' time='00:00:13.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KdL_CADvflc/2.jpg' height='90' width='120' time='00:00:27.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/KdL_CADvflc/3.jpg' height='90' width='120' time='00:00:41.250' yt:name='end'/>
+			<media:title type='plain'>Miss Maine USA Winner-YouTube sharing.mov</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='55'/>
+			<yt:uploaded>2011-11-22T16:39:28.000Z</yt:uploaded>
+			<yt:videoid>KdL_CADvflc</yt:videoid>
+		</media:group>
+		<gd:rating average='3.6666667' max='5' min='1' numRaters='3' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1' viewCount='2883'/>
+		<yt:rating numDislikes='1' numLikes='2'/>
+	</entry>
+	<entry gd:etag='W/&quot;Ak4AQ347eCp7I2A9WhRbFE0.&quot;'>
+		<id>tag:youtube.com,2008:video:ZzvvUxii8Jg</id>
+		<published>2011-11-26T21:05:15.000Z</published>
+		<updated>2012-02-05T02:29:02.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='bodybyjohn'/>
+		<title>The Road To Miss Maine Teen</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/ZzvvUxii8Jg?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=ZzvvUxii8Jg&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/ZzvvUxii8Jg/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/ZzvvUxii8Jg/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/ZzvvUxii8Jg/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/ZzvvUxii8Jg/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=ZzvvUxii8Jg'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/ZzvvUxii8Jg?v=2'/>
+		<author>
+			<name>flex112261</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/flex112261</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/ZzvvUxii8Jg/comments?v=2' countHint='1'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='https://www.youtube.com/v/ZzvvUxii8Jg?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='154' yt:format='5'/>
+			<media:content url='rtsp://v2.cache5.c.youtube.com/CkULENy73wIaPAmY8KIYU-87ZxMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='154' yt:format='1'/>
+			<media:content url='rtsp://v1.cache5.c.youtube.com/CkULENy73wIaPAmY8KIYU-87ZxMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='154' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='flex112261'>flex112261</media:credit>
+			<media:description type='plain'>Molly Fitzpatrick Miss Maine Teen and Miss Body by John!</media:description>
+			<media:keywords>bodybyjohn</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=ZzvvUxii8Jg&amp;feature=youtube_gdata_player'/>
+			<media:restriction type='country' relationship='deny'>DE</media:restriction>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZzvvUxii8Jg/default.jpg' height='90' width='120' time='00:01:17' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZzvvUxii8Jg/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZzvvUxii8Jg/1.jpg' height='90' width='120' time='00:00:38.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZzvvUxii8Jg/2.jpg' height='90' width='120' time='00:01:17' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/ZzvvUxii8Jg/3.jpg' height='90' width='120' time='00:01:55.500' yt:name='end'/>
+			<media:title type='plain'>The Road To Miss Maine Teen</media:title>
+			<yt:duration seconds='154'/>
+			<yt:uploaded>2011-11-26T21:05:15.000Z</yt:uploaded>
+			<yt:videoid>ZzvvUxii8Jg</yt:videoid>
+		</media:group>
+		<gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1' viewCount='349'/>
+		<yt:rating numDislikes='0' numLikes='1'/>
+	</entry>
+	<entry gd:etag='W/&quot;CEYGQX47eCp7I2A9WhRQF0w.&quot;'>
+		<id>tag:youtube.com,2008:video:NSZ39WfbxDI</id>
+		<published>2011-09-28T15:02:44.000Z</published>
+		<updated>2011-12-12T17:48:40.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Nonprofit' label='Nonprofits &amp; Activism'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miss america'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='miss maine'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='julia furtado'/>
+		<title>Miss Maine 2011 Julia Furtado on the 90th Anniversary of the Miss America Pageant</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/NSZ39WfbxDI?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=NSZ39WfbxDI&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/NSZ39WfbxDI/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/NSZ39WfbxDI/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/NSZ39WfbxDI/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/NSZ39WfbxDI/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=NSZ39WfbxDI'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/NSZ39WfbxDI?v=2'/>
+		<author>
+			<name>MissAmericaOrg</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/MissAmericaOrg</uri>
+		</author>
+		<yt:accessControl action='comment' permission='denied'/>
+		<yt:accessControl action='commentVote' permission='denied'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<media:group>
+			<media:category label='Nonprofits &amp; Activism' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Nonprofit</media:category>
+			<media:content url='https://www.youtube.com/v/NSZ39WfbxDI?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='60' yt:format='5'/>
+			<media:content url='rtsp://v1.cache3.c.youtube.com/CkULENy73wIaPAkyxNtn9XcmNRMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='60' yt:format='1'/>
+			<media:content url='rtsp://v5.cache2.c.youtube.com/CkULENy73wIaPAkyxNtn9XcmNRMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='60' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='MissAmericaOrg'>missamericaorg</media:credit>
+			<media:description type='plain'/>
+			<media:keywords>miss america, miss maine, julia furtado</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=NSZ39WfbxDI&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NSZ39WfbxDI/default.jpg' height='90' width='120' time='00:00:30' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NSZ39WfbxDI/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NSZ39WfbxDI/1.jpg' height='90' width='120' time='00:00:15' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NSZ39WfbxDI/2.jpg' height='90' width='120' time='00:00:30' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/NSZ39WfbxDI/3.jpg' height='90' width='120' time='00:00:45' yt:name='end'/>
+			<media:title type='plain'>Miss Maine 2011 Julia Furtado on the 90th Anniversary of the Miss America Pageant</media:title>
+			<yt:duration seconds='60'/>
+			<yt:uploaded>2011-09-28T15:02:44.000Z</yt:uploaded>
+			<yt:videoid>NSZ39WfbxDI</yt:videoid>
+		</media:group>
+		<yt:statistics favoriteCount='1' viewCount='690'/>
+	</entry>
+	<entry gd:etag='W/&quot;CUUNSH47eCp7I2A9WhRTGUk.&quot;'>
+		<id>tag:youtube.com,2008:video:_0hB_m5A8m4</id>
+		<published>2011-11-10T16:41:39.000Z</published>
+		<updated>2011-11-10T16:41:39.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='MISS'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='MAINE'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='USA'/>
+		<title>EXCLUSIVE MISS MAINE USA 2011 VIDEO</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/_0hB_m5A8m4?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=_0hB_m5A8m4&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/_0hB_m5A8m4/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/_0hB_m5A8m4/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/_0hB_m5A8m4/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/_0hB_m5A8m4/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=_0hB_m5A8m4'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/_0hB_m5A8m4?v=2'/>
+		<author>
+			<name>findstiles</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/findstiles</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/_0hB_m5A8m4/comments?v=2' countHint='1'/>
+		</gd:comments>
+		<yt:hd/>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='https://www.youtube.com/v/_0hB_m5A8m4?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='33' yt:format='5'/>
+			<media:content url='rtsp://v4.cache6.c.youtube.com/CkULENy73wIaPAlu8kBu_kFI_xMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='33' yt:format='1'/>
+			<media:content url='rtsp://v6.cache6.c.youtube.com/CkULENy73wIaPAlu8kBu_kFI_xMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='33' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='findstiles' yt:type='partner'>findstiles</media:credit>
+			<media:description type='plain'>EXCLUSIVE MISS MAINE USA 2011 VIDEO</media:description>
+			<media:keywords>MISS, MAINE, USA</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=_0hB_m5A8m4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_0hB_m5A8m4/default.jpg' height='90' width='120' time='00:00:16.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_0hB_m5A8m4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_0hB_m5A8m4/1.jpg' height='90' width='120' time='00:00:08.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_0hB_m5A8m4/2.jpg' height='90' width='120' time='00:00:16.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/_0hB_m5A8m4/3.jpg' height='90' width='120' time='00:00:24.750' yt:name='end'/>
+			<media:title type='plain'>EXCLUSIVE MISS MAINE USA 2011 VIDEO</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='33'/>
+			<yt:uploaded>2011-11-10T16:41:39.000Z</yt:uploaded>
+			<yt:videoid>_0hB_m5A8m4</yt:videoid>
+		</media:group>
+		<yt:statistics favoriteCount='1' viewCount='462'/>
+	</entry>
+	<entry gd:etag='W/&quot;DkIBSX47eCp7I2A9WhRUEE0.&quot;'>
+		<id>tag:youtube.com,2008:video:LbAjbK6vnPQ</id>
+		<published>2012-01-14T03:41:14.000Z</published>
+		<updated>2012-01-19T20:22:38.000Z</updated>
+		<app:control>
+			<yt:state name='restricted' reasonCode='limitedSyndication'>Syndication of this video was restricted by its owner.</yt:state>
+		</app:control>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Travel' label='Travel &amp; Events'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Miss Maine'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='2012 Miss Maine'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Media Northeast'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Josh Swan'/>
+		<title>2012 Miss Maine Winner.mov</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/LbAjbK6vnPQ?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=LbAjbK6vnPQ&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/LbAjbK6vnPQ/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/LbAjbK6vnPQ/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/LbAjbK6vnPQ/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/LbAjbK6vnPQ/related?v=2'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/LbAjbK6vnPQ?v=2'/>
+		<author>
+			<name>swanny818</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/swanny818</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='denied'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/LbAjbK6vnPQ/comments?v=2' countHint='0'/>
+		</gd:comments>
+		<yt:hd/>
+		<media:group>
+			<media:category label='Travel &amp; Events' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Travel</media:category>
+			<media:content url='https://www.youtube.com/v/LbAjbK6vnPQ?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='70' yt:format='5'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='swanny818'>swanny818</media:credit>
+			<media:description type='plain'>Shot by Josh Swan of Media Northeast</media:description>
+			<media:keywords>Miss Maine, 2012 Miss Maine, Media Northeast, Josh Swan</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=LbAjbK6vnPQ&amp;feature=youtube_gdata_player'/>
+			<media:restriction type='country' relationship='deny'>DE</media:restriction>
+			<media:thumbnail url='http://i.ytimg.com/vi/LbAjbK6vnPQ/default.jpg' height='90' width='120' time='00:00:35' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LbAjbK6vnPQ/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LbAjbK6vnPQ/1.jpg' height='90' width='120' time='00:00:17.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LbAjbK6vnPQ/2.jpg' height='90' width='120' time='00:00:35' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/LbAjbK6vnPQ/3.jpg' height='90' width='120' time='00:00:52.500' yt:name='end'/>
+			<media:title type='plain'>2012 Miss Maine Winner.mov</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='70'/>
+			<yt:uploaded>2012-01-14T03:41:14.000Z</yt:uploaded>
+			<yt:videoid>LbAjbK6vnPQ</yt:videoid>
+		</media:group>
+		<yt:statistics favoriteCount='0' viewCount='100'/>
+	</entry>
+	<entry gd:etag='W/&quot;CUAMSH47eCp7I2A9WhRVFUQ.&quot;'>
+		<id>tag:youtube.com,2008:video:AAzhGvkzbZU</id>
+		<published>2012-01-15T02:16:29.000Z</published>
+		<updated>2012-01-15T02:16:29.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Nonprofit' label='Nonprofits &amp; Activism'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Julia'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Furtado'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Maine'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Miss'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='America'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Pageant'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Soprano'/>
+		<title>Julia Furtado, Miss Maine, opening of Miss America Pageant.</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/AAzhGvkzbZU?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=AAzhGvkzbZU&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/AAzhGvkzbZU/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/AAzhGvkzbZU/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/AAzhGvkzbZU/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/AAzhGvkzbZU/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=AAzhGvkzbZU'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/AAzhGvkzbZU?v=2'/>
+		<author>
+			<name>Kurtperry41</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/Kurtperry41</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/AAzhGvkzbZU/comments?v=2' countHint='0'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Nonprofits &amp; Activism' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Nonprofit</media:category>
+			<media:content url='https://www.youtube.com/v/AAzhGvkzbZU?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='7' yt:format='5'/>
+			<media:content url='rtsp://v1.cache2.c.youtube.com/CkULENy73wIaPAmVbTP5GuEMABMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='7' yt:format='1'/>
+			<media:content url='rtsp://v8.cache1.c.youtube.com/CkULENy73wIaPAmVbTP5GuEMABMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='7' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='Kurtperry41'>kurtperry41</media:credit>
+			<media:description type='plain'>Julia Furtado is introduced.</media:description>
+			<media:keywords>Julia, Furtado, Maine, Miss, America, Pageant, Soprano</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=AAzhGvkzbZU&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AAzhGvkzbZU/default.jpg' height='90' width='120' time='00:00:03.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AAzhGvkzbZU/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AAzhGvkzbZU/1.jpg' height='90' width='120' time='00:00:01.750' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AAzhGvkzbZU/2.jpg' height='90' width='120' time='00:00:03.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/AAzhGvkzbZU/3.jpg' height='90' width='120' time='00:00:05.250' yt:name='end'/>
+			<media:title type='plain'>Julia Furtado, Miss Maine, opening of Miss America Pageant.</media:title>
+			<yt:duration seconds='7'/>
+			<yt:uploaded>2012-01-15T02:16:29.000Z</yt:uploaded>
+			<yt:videoid>AAzhGvkzbZU</yt:videoid>
+		</media:group>
+		<yt:statistics favoriteCount='0' viewCount='101'/>
+	</entry>
+	<entry gd:etag='W/&quot;CkcDQ347eCp7I2A9WhVTEk8.&quot;'>
+		<id>tag:youtube.com,2008:video:yQvijWqyTC4</id>
+		<published>2011-11-22T16:30:26.000Z</published>
+		<updated>2012-02-26T01:34:32.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Maine'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Miss'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Teen'/>
+		<title>Maine teen Winner-YouTube sharing.mov</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/yQvijWqyTC4?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=yQvijWqyTC4&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/yQvijWqyTC4/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/yQvijWqyTC4/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/yQvijWqyTC4/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/yQvijWqyTC4/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=yQvijWqyTC4'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/yQvijWqyTC4?v=2'/>
+		<author>
+			<name>mainecrown</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/mainecrown</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/yQvijWqyTC4/comments?v=2' countHint='2'/>
+		</gd:comments>
+		<yt:hd/>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='https://www.youtube.com/v/yQvijWqyTC4?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='66' yt:format='5'/>
+			<media:content url='rtsp://v3.cache1.c.youtube.com/CkULENy73wIaPAkuTLJqjeILyRMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='66' yt:format='1'/>
+			<media:content url='rtsp://v2.cache2.c.youtube.com/CkULENy73wIaPAkuTLJqjeILyRMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='66' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='mainecrown'>mainecrown</media:credit>
+			<media:description type='plain'>The crowning moment of the new Miss Maine Teen USA 2012, Molly Fitzpatrick Filmed by www.medianorthest.com Location : Westbrook Performing Arts Center</media:description>
+			<media:keywords>Maine, Miss, Teen</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=yQvijWqyTC4&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yQvijWqyTC4/default.jpg' height='90' width='120' time='00:00:33' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yQvijWqyTC4/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yQvijWqyTC4/1.jpg' height='90' width='120' time='00:00:16.500' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yQvijWqyTC4/2.jpg' height='90' width='120' time='00:00:33' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/yQvijWqyTC4/3.jpg' height='90' width='120' time='00:00:49.500' yt:name='end'/>
+			<media:title type='plain'>Maine teen Winner-YouTube sharing.mov</media:title>
+			<yt:aspectRatio>widescreen</yt:aspectRatio>
+			<yt:duration seconds='66'/>
+			<yt:uploaded>2011-11-22T16:30:26.000Z</yt:uploaded>
+			<yt:videoid>yQvijWqyTC4</yt:videoid>
+		</media:group>
+		<gd:rating average='4.3333335' max='5' min='1' numRaters='6' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='1' viewCount='1647'/>
+		<yt:rating numDislikes='1' numLikes='5'/>
+	</entry>
+	<entry gd:etag='W/&quot;DEEASX47eCp7I2A9WhdTGUk.&quot;'>
+		<id>tag:youtube.com,2008:video:riXMCZr-0R8</id>
+		<published>2011-07-16T17:44:53.000Z</published>
+		<updated>2011-07-17T23:50:48.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://gdata.youtube.com/schemas/2007#video'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/categories.cat' term='Entertainment' label='Entertainment'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='METEEN'/>
+		<category scheme='http://gdata.youtube.com/schemas/2007/keywords.cat' term='Q1'/>
+		<title>Miss Teen USA® 2011 - Why Miss Maine Teen USA® Wants to be Miss Teen USA® 2011</title>
+		<content type='application/x-shockwave-flash' src='https://www.youtube.com/v/riXMCZr-0R8?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata'/>
+		<link rel='alternate' type='text/html' href='https://www.youtube.com/watch?v=riXMCZr-0R8&amp;feature=youtube_gdata'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.responses' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/riXMCZr-0R8/responses?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.ratings' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/riXMCZr-0R8/ratings?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.complaints' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/riXMCZr-0R8/complaints?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#video.related' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/riXMCZr-0R8/related?v=2'/>
+		<link rel='http://gdata.youtube.com/schemas/2007#mobile' type='text/html' href='https://m.youtube.com/details?v=riXMCZr-0R8'/>
+		<link rel='self' type='application/atom+xml' href='https://gdata.youtube.com/feeds/api/videos/riXMCZr-0R8?v=2'/>
+		<author>
+			<name>OfficialMissTeenUSA</name>
+			<uri>https://gdata.youtube.com/feeds/api/users/OfficialMissTeenUSA</uri>
+		</author>
+		<yt:accessControl action='comment' permission='allowed'/>
+		<yt:accessControl action='commentVote' permission='allowed'/>
+		<yt:accessControl action='videoRespond' permission='moderated'/>
+		<yt:accessControl action='rate' permission='allowed'/>
+		<yt:accessControl action='embed' permission='allowed'/>
+		<yt:accessControl action='list' permission='allowed'/>
+		<yt:accessControl action='autoPlay' permission='allowed'/>
+		<yt:accessControl action='syndicate' permission='allowed'/>
+		<gd:comments>
+			<gd:feedLink rel='http://gdata.youtube.com/schemas/2007#comments' href='https://gdata.youtube.com/feeds/api/videos/riXMCZr-0R8/comments?v=2' countHint='0'/>
+		</gd:comments>
+		<media:group>
+			<media:category label='Entertainment' scheme='http://gdata.youtube.com/schemas/2007/categories.cat'>Entertainment</media:category>
+			<media:content url='https://www.youtube.com/v/riXMCZr-0R8?version=3&amp;f=videos&amp;d=AQqEaJxYo1xpfGC6Y2eO3hUO88HsQjpE1a8d1GxQnGDm&amp;app=youtube_gdata' type='application/x-shockwave-flash' medium='video' isDefault='true' expression='full' duration='21' yt:format='5'/>
+			<media:content url='rtsp://v4.cache1.c.youtube.com/CkULENy73wIaPAkf0f6aCcwlrhMYDSANFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='21' yt:format='1'/>
+			<media:content url='rtsp://v7.cache5.c.youtube.com/CkULENy73wIaPAkf0f6aCcwlrhMYESARFEgGUgZ2aWRlb3NyIQEKhGicWKNcaXxgumNnjt4VDvPB7EI6RNWvHdRsUJxg5gw=/0/0/0/video.3gp' type='video/3gpp' medium='video' expression='full' duration='21' yt:format='6'/>
+			<media:credit role='uploader' scheme='urn:youtube' yt:display='OfficialMissTeenUSA' yt:type='partner'>officialmissteenusa</media:credit>
+			<media:description type='plain'/>
+			<media:keywords>METEEN, Q1</media:keywords>
+			<media:license type='text/html' href='http://www.youtube.com/t/terms'>youtube</media:license>
+			<media:player url='https://www.youtube.com/watch?v=riXMCZr-0R8&amp;feature=youtube_gdata_player'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/riXMCZr-0R8/default.jpg' height='90' width='120' time='00:00:10.500' yt:name='default'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/riXMCZr-0R8/hqdefault.jpg' height='360' width='480' yt:name='hqdefault'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/riXMCZr-0R8/1.jpg' height='90' width='120' time='00:00:05.250' yt:name='start'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/riXMCZr-0R8/2.jpg' height='90' width='120' time='00:00:10.500' yt:name='middle'/>
+			<media:thumbnail url='http://i.ytimg.com/vi/riXMCZr-0R8/3.jpg' height='90' width='120' time='00:00:15.750' yt:name='end'/>
+			<media:title type='plain'>Miss Teen USA® 2011 - Why Miss Maine Teen USA® Wants to be Miss Teen USA® 2011</media:title>
+			<yt:duration seconds='21'/>
+			<yt:uploaded>2011-07-16T17:44:53.000Z</yt:uploaded>
+			<yt:videoid>riXMCZr-0R8</yt:videoid>
+		</media:group>
+		<gd:rating average='5.0' max='5' min='1' numRaters='1' rel='http://schemas.google.com/g/2005#overall'/>
+		<yt:statistics favoriteCount='0' viewCount='377'/>
+		<yt:rating numDislikes='0' numLikes='1'/>
+	</entry>
+</feed>
